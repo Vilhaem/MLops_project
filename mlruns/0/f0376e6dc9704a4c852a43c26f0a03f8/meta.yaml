@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/willi/OneDrive/Documents/GitHub/MLops_project/mlruns/0/f0376e6dc9704a4c852a43c26f0a03f8/artifacts
+end_time: 1696540887391
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f0376e6dc9704a4c852a43c26f0a03f8
+run_name: illustrious-cod-624
+run_uuid: f0376e6dc9704a4c852a43c26f0a03f8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1696540880958
+status: 3
+tags: []
+user_id: willi
