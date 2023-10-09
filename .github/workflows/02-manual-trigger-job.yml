@@ -1,7 +1,9 @@
 name: Trigger on push an Azure Machine Learning job
 
 on:
-  [push]
+  push:
+    branches:
+      - main
 
 jobs:
   train:
